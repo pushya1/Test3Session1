@@ -1,2 +1,2 @@
-language = "bash"
+language = "c"
 run = "g++ -o <exe file> <file>"
