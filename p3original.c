@@ -30,7 +30,7 @@ int ncr(int n, int r)
 }
 void output(int n, int r, int result)
 {
-    printf("The value of %dc%d = %d\n",n,r,result);
+    printf("The value of %dc%d = %d \n",n,r,result);
 
 }
 int main()
